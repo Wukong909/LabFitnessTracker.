@@ -86,3 +86,7 @@ public class Main {
         input.close();
     }
 }
+
+## Code Review
+- **Reviewed by:** [Alex Lam]
+- **Status:** Checked code. Inheritance (`extends`), Scanner input, and salary calculations are all correct and working!

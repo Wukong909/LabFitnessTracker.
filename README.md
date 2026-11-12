@@ -1,4 +1,4 @@
-# LabFitnessTracker.
+# Employee Salary Calculator.
 
 import java.util.Scanner;
 
